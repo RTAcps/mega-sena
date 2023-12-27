@@ -32,6 +32,10 @@ Você pode personalizar este simulador de acordo com suas preferências:
 
 - Interface de usuário: Você pode expandir a interface do usuário adicionando mais recursos, como gráficos ou animações, para tornar a experiência mais atraente.
 
+## Deploy
+
+Pode conferir o funcionamento em [Mega Sena Simulada](https://rtacps.github.io/mega-sena/)
+
 ## Tecnologias Usadas
 
 Este simulador utiliza as seguintes tecnologias:
